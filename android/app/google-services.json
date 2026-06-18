@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247175928678",
+    "project_id": "rabatlink",
+    "storage_bucket": "rabatlink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247175928678:android:3b8f240cabe7fc0feb86a7",
+        "android_client_info": {
+          "package_name": "com.example.rabatlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOLQHnCBpPtaA1cA2lko7ZpIhD2u1-fdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
